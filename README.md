@@ -37,11 +37,17 @@ Snip of Count of Order by Age Group and Gender
 
 
 Snip of Count of Order by Status
+
+
 ![Order by status](https://github.com/user-attachments/assets/fadc4a80-712a-4ca1-b537-10be0b089e74)
 
 Snip of Sum of Amount by Ship State
+
+
 ![State](https://github.com/user-attachments/assets/ac1b008c-bdd4-4100-b05c-251b6faf4e45)
 Snip Sum of Amount by Channel
+
+
 ![Channel](https://github.com/user-attachments/assets/4be6b822-1999-4f2f-96be-389804b6bef2)
  
 # Snapshot of Dashboard(Page 1)
